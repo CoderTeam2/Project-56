@@ -10,3 +10,6 @@ img {
 .box {
     display: flex;
 }
+.pic {
+    padding: 50px;
+}
