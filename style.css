@@ -9,8 +9,7 @@ img {
 }
 .box {
     display: flex;
-    padding-right: 50px;
 }
 .pic {
-   
+    padding: 50px;
 }
