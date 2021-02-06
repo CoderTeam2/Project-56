@@ -2,17 +2,18 @@ body {
     text-align: center;
     background-color: yellow;
 }
-
 img {
     height: 300px;
     width: 300px;
 }
 .box {
     display: flex;
-    margin-top:15px;
-    text-align: center;
+    justify-content: center;
 }
 .pic {
     margin-right:25px;
     margin-left:25px;
+}
+div {
+    margin-top:15px;
 }
