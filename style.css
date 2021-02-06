@@ -11,3 +11,6 @@ img {
     display: flex;
     text-align: center;
 }
+.pic {
+    margin:50px;
+}
