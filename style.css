@@ -9,5 +9,5 @@ img {
 }
 .box {
     display: flex;
-    
+    text-align: center;
 }
