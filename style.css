@@ -11,6 +11,5 @@ img {
     display: flex;
 }
 .pic {
-    margin-bottom:40px;
-    margin-left:300px;
+    padding: 50px;
 }
